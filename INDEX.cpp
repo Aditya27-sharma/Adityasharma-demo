@@ -2,11 +2,13 @@
 using namespace std;
 int main(){
 
+    cout<<"glitter";
 
 cout<<"hello world";
 
     return 0;                  
 }
+
 
 //push = to upload in github
 
